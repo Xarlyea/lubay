@@ -1,0 +1,23 @@
+/*
+Theme Name: PlantillaWP
+Theme URI:
+Author: Calos Brisson Armas
+Author URI:http://wwwlubay.es
+Description: Primera plantilla
+Version: 1.0
+License: GNU General Public license or later
+Tags: html5 css3, ciudad
+*/
+
+
+header
+{
+    background-color: #000;
+    color: #fff;
+}
+
+footer 
+{
+    background-color: #162ee3;
+    color: #fff;
+}
